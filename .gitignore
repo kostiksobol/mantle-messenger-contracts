@@ -1,0 +1,22 @@
+# deps
+node_modules/
+
+# foundry
+out/
+cache/
+broadcast/
+coverage/
+lcov.info
+
+# env
+.env
+.env.*
+!.env.example
+
+# system/editor
+.DS_Store
+.idea/
+.vscode/
+
+# logs
+*.log
